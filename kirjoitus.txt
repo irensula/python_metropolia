@@ -1,0 +1,4 @@
+Ensimmäinen rivi.
+Toinen rivi.
+Viimeinen rivi.Lisätty rivi!
+Tiedostoa jatkettu edellisestä esimerkistä.
